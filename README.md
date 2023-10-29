@@ -10,7 +10,7 @@ This repository contains code for a basic navigation menu created primarily with
 - easily understandable HTML, CSS, and JavaScript code 
 
 # Preview
-<video src="Navigation%20Menu%20-%20Brave%202023-10-29%2023-33-08.mp4" controls title="Preview"></video>
+<video src="https://imgur.com/cBk3rqg" controls title="Preview"></video>
 
 # Usage
 To use or test the navigation menu, simply download or clone the repository and open the index.html file in a web browser.
