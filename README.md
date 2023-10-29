@@ -10,7 +10,7 @@ This repository contains code for a basic navigation menu created primarily with
 - easily understandable HTML, CSS, and JavaScript code 
 
 # Preview
-<img alt="YAP" src="https://imgur.com/cBk3rqg">
+<img alt="video of the Navigation Menu" src="">
 
 # Usage
 To use or test the navigation menu, simply download or clone the repository and open the index.html file in a web browser.
